@@ -43,7 +43,7 @@
 		gr.taken = gr.taken + current.duration;
 		gr.update();
 	}
-
+	// test
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -51,7 +51,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8b1675cc07511d109687fd908c1ed0ce</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Calculate leaves</sys_name>
         <sys_overrides/>
         <sys_package display_value="Leave management system" source="x_851032_leave_man">aec563b6070119109687fd908c1ed0cc</sys_package>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Leave management system">aec563b6070119109687fd908c1ed0cc</sys_scope>
         <sys_update_name>sys_script_8b1675cc07511d109687fd908c1ed0ce</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-09 05:28:37</sys_updated_on>
+        <sys_updated_on>2022-08-09 14:29:04</sys_updated_on>
         <template/>
         <when>async_always</when>
     </sys_script>
